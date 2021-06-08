@@ -9,17 +9,18 @@ function Portfolio() {
                 alt="pet-adoption"
                 className="screenshot"
             ></img>
+            <h4>Pet Adoption</h4>
             <a            
             href="https://avamariee.github.io/pet-adoption-quiz/"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Pet Adoption App</h5>
+                <h5>App</h5>
             </a>
             <a
                 href="https://github.com/avamariee/pet-adoption-quiz"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Pet Adoption Repository</h5>
+                <h5>Repository</h5>
             </a>
             <br></br>
 
@@ -28,17 +29,18 @@ function Portfolio() {
                 alt="note-taker"
                 className="screenshot"
             ></img>
+            <h4>Note Taker</h4>
             <a            
             href="https://desolate-sands-26527.herokuapp.com/"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Note Taker App</h5>
+                <h5>App</h5>
             </a>
             <a
                 href="https://github.com/tessaustin/notes-on-notes"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Note Taker Repository</h5>
+                <h5>Repository</h5>
             </a>
             <br></br>
 
@@ -47,17 +49,18 @@ function Portfolio() {
                 alt="scheduler"
                 className="screenshot"
             ></img>
+            <h4>Scheduler</h4>
             <a            
             href="https://tessaustin.github.io/scheduler/"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Scheduler App</h5>
+                <h5>App</h5>
             </a>
             <a
                 href="https://github.com/tessaustin/scheduler"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Scheduler Repository</h5>
+                <h5>Repository</h5>
             </a>
             <br></br>
 
@@ -66,17 +69,18 @@ function Portfolio() {
                 alt="forecast"
                 className="screenshot"
             ></img>
+            <h4>Forecast</h4>
             <a            
             href="https://tessaustin.github.io/forecast/"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Forecast App</h5>
+                <h5>App</h5>
             </a>
             <a
                 href="https://github.com/tessaustin/forecast"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Forecast Repository</h5>
+                <h5>Repository</h5>
             </a>
             <br></br>
 
@@ -85,17 +89,18 @@ function Portfolio() {
                 alt="tech-blog"
                 className="screenshot"
             ></img>
+            <h4>Tech Blog</h4>
             <a            
             href="https://calm-fjord-73302.herokuapp.com/"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Tech Blog App</h5>
+                <h5>App</h5>
             </a>
             <a
                 href="https://github.com/tessaustin/MVC-tech"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Tech Blog Repository</h5>
+                <h5>Repository</h5>
             </a>
             <br></br>
 
@@ -104,17 +109,18 @@ function Portfolio() {
                 alt="password"
                 className="screenshot"
             ></img>
+            <h4>Password Generator</h4>
             <a            
             href="https://tessaustin.github.io/password-generator/"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Password Generator App</h5>
+                <h5>App</h5>
             </a>
             <a
                 href="https://github.com/tessaustin/password-generator"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Password Generator Repository</h5>
+                <h5>Repository</h5>
             </a>
             <br></br>
 
@@ -123,17 +129,18 @@ function Portfolio() {
                 alt="budget"
                 className="screenshot"
             ></img>
+            <h4>Budget Tracker</h4>
             <a            
             href="https://polar-wildwood-09716.herokuapp.com/"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Budget App</h5>
+                <h5>App</h5>
             </a>
             <a
                 href="https://github.com/tessaustin/budget-real-good"
                 target="_blank"
                 rel="noopener noreferrer">
-                <h5>Budget Repository</h5>
+                <h5>Repository</h5>
             </a>
         </div>
         
