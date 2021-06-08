@@ -15,12 +15,12 @@ function App() {
     switch (currentTab) {
       case "about":
         return <About />;
-      case "portfolio":
-        return <Portfolio />;
+/*       case "portfolio":
+        return <Portfolio />; */
       case "contact":
         return <Contact />;
-      case "resume":
-        return <Resume />;
+/*       case "resume":
+        return <Resume />; */
       default:
         return null;
     }
@@ -34,9 +34,9 @@ function App() {
       <div>
         <main>{renderTab()}</main>
       </div>
-      <div>
+{/*       <div>
         <Footer></Footer>
-      </div>
+      </div> */}
     </div>
   );
 }
