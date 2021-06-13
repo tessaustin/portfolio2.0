@@ -7,6 +7,7 @@ main {
 :root {
 	--primary: #4371d4;
 	--secondary: #aac3e9;
+
 	--spacing-one: calc(1rem * 0.5);
 	--spacing-two: calc(1rem);
 	--spacing-five: calc(2.5rem);
@@ -80,7 +81,7 @@ form {
 input {
 	font-size: 1rem;
 	padding: 0.25rem;
-	border: 1px solid var(--dark);
+	border: 3px solid #cccccc;
 	outline: none;
 	border-radius: 3px;
 	transition: box-shadow 0.2s;
@@ -294,6 +295,7 @@ textarea {
 	}
 
 	input {
+    border: 3px solid #cccccc;
 		width: 350px;
 	}
 
