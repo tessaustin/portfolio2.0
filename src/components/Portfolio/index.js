@@ -25,6 +25,26 @@ function Portfolio() {
             <br></br>
 
             <img
+                src={require("../../assets/img/zerostars.png").default}
+                alt="zero-stars"
+                className="screenshot"
+            ></img>
+            <h4>Zero Stars</h4>
+            <a            
+            href="https://zero-stars-8.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer">
+                <h5>App</h5>
+            </a>
+            <a
+                href="https://github.com/avamariee/zero-stars"
+                target="_blank"
+                rel="noopener noreferrer">
+                <h5>Repository</h5>
+            </a>
+            <br></br>
+
+            <img
                 src={require("../../assets/img/notetaker.png").default}
                 alt="note-taker"
                 className="screenshot"
@@ -98,26 +118,6 @@ function Portfolio() {
             </a>
             <a
                 href="https://github.com/tessaustin/MVC-tech"
-                target="_blank"
-                rel="noopener noreferrer">
-                <h5>Repository</h5>
-            </a>
-            <br></br>
-
-            <img
-                src={require("../../assets/img/password.png").default}
-                alt="password"
-                className="screenshot"
-            ></img>
-            <h4>Password Generator</h4>
-            <a            
-            href="https://tessaustin.github.io/password-generator/"
-                target="_blank"
-                rel="noopener noreferrer">
-                <h5>App</h5>
-            </a>
-            <a
-                href="https://github.com/tessaustin/password-generator"
                 target="_blank"
                 rel="noopener noreferrer">
                 <h5>Repository</h5>
